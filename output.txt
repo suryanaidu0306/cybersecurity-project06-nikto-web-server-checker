@@ -1,0 +1,20 @@
+========================================
+     NIKTO WEB SERVER SECURITY CHECKER
+========================================
+Target: http://127.0.0.1:8000
+Scope: Local test server only
+
+Local web server is responding.
+Starting Nikto scan...
+
+- Nikto v2.1.5
+---------------------------------------------------------------------------
++ Target IP:          127.0.0.1
++ Target Hostname:    localhost
++ Target Port:        8000
++ Start Time:         2026-10-22 18:27:42 (GMT5.5)
+---------------------------------------------------------------------------
++ Server: SimpleHTTP/0.6 Python/3.12.3
++ The anti-clickjacking X-Frame-Options header is not present.
++ No CGI Directories found (use '-C all' to force check all possible dirs)
++ SimpleHTTP/0.6 appears to be outdated (current is at least 1.2)
